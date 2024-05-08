@@ -32,6 +32,11 @@ REG.NO:212223240176
 ## Communication Diagram:
 ![Screenshot 2024-04-22 114119](https://github.com/vigneshvickyu/LAB-5-Student-registration-system/assets/151948835/470e9c39-6ebb-4c6c-9521-7f0aada02b21)
 
+### STATECHART DIAGRAM:
+![Screenshot 2024-05-08 111519](https://github.com/vigneshvickyu/LAB-5-Student-registration-system/assets/151948835/f2b6a13a-2166-46fa-8d89-17384c7378bc)
+
+
+
 ## Package Diagram:
 ![Screenshot 2024-04-22 114101](https://github.com/vigneshvickyu/LAB-5-Student-registration-system/assets/151948835/0222faeb-ac68-434f-af2f-3bb324f02442)
 ### RESULT:
